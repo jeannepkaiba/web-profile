@@ -1,0 +1,31 @@
+/*
+ ini style keseluruhan
+*/
+h3 {
+		color: red;
+		text-decoration: underline;
+		font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	}
+
+body{
+		background-color: lightblue;
+	}
+
+.teks-biru {
+	color: blue;
+}
+
+.link {
+	color: #e86ed0;
+	font-size: 30px;
+	text-align: center;
+	text-decoration: none;
+}
+.li {
+	color: #c36a2d
+	
+}
+#judul{
+	font-size: 30px;
+	color: yellow;
+}
