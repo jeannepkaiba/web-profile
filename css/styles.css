@@ -1,0 +1,47 @@
+body{
+    background-color: #d4d7dd;
+}
+
+#home {
+    padding-top: 250px;
+    
+}
+
+#profile{
+    padding-top: 100px;
+}
+
+#hobi{
+    padding-top: 250px;
+    padding-left: 200px
+}
+
+#gallery{
+    padding-top: 30px;
+}
+
+#wrapper{
+    padding-top: 30px;
+}
+
+#membaca{
+    padding-top: 30px;
+}
+
+#nonton{
+    padding-top: 30px;
+}
+
+#footer{
+    padding-top: 450px;
+    padding-left: 700px;
+    
+}
+
+.social-icon {
+    margin: 20px 10px;
+  }
+
+#prog{
+    padding-top: 100px;
+}
